@@ -1,0 +1,2 @@
+# Unclosed Paragraph Tag in HTML
+This repository demonstrates a common HTML error: an unclosed paragraph tag (`<p>`).  Unclosed tags can cause unexpected layout problems and hinder HTML validation. The `bug.html` file contains the erroneous code, while `bugSolution.html` provides the corrected version.
